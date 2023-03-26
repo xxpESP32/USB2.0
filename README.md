@@ -64,4 +64,5 @@
 实物展示
 -----------------------------------------------------------------------------------
   ![C58DE920B4AA7BFF24BC10458701FAC1](https://user-images.githubusercontent.com/96675865/227756411-2bf164ca-7711-4e00-8a9a-aed45fe314a4.jpg)
+  ![ED1255AE1E936D76E13E7413D4294A49](https://user-images.githubusercontent.com/96675865/227756446-61b56e82-e6e7-4f49-a0bb-fbe00dd567a4.jpg)
 
